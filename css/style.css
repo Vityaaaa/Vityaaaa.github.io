@@ -54,7 +54,7 @@ a.photo:hover img{
  
 
   .iconsize {
-     font-size: 15px;
+  	 font-size: 15px;
      font-family: 'Niconne', cursive;
   }
    .text-center h1{
@@ -76,7 +76,7 @@ a.photo:hover img{
 @media only screen and (min-width: 450px) { 
 
   .iconsize {
-     font-size: 18px;
+  	 font-size: 18px;
   font-family: 'Niconne', cursive;
   }
   .text-center h1{
@@ -95,7 +95,7 @@ a.photo:hover img{
 @media only screen and (min-width: 1024px) { 
 
   .iconsize {
-     font-size: 25px;
+  	 font-size: 25px;
   font-family: 'Niconne', cursive;
   }
   .text-center h1{
@@ -127,6 +127,5 @@ a.photo:hover img{
 }
 margin-right: 0px;
 }
-
 
 
